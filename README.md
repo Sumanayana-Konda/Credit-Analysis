@@ -22,6 +22,9 @@ Developed skills in data analysis, machine learning, and communication of findin
 The project provided valuable insights into the factors that impact loan approval and enabled the banks to improve their ability to recognize defaulters, ultimately reducing their financial risk.
 
 ## **Data Set**
+https://www.kaggle.com/datasets/kapoorshivam/credit-analysis?select=previous_app.csv
+</br>
+</br>
 SK_ID_PREV: A unique identifier for the previous loan application.
 </br>
 SK_ID_CURR: A unique identifier for the current loan application.
